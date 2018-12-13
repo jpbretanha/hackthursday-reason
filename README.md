@@ -1,6 +1,4 @@
-# ht-reason
-
-## Project made for Hackthursday presentation to show how to make a todo list with ReasonML
+# Project made for Hackthursday presentation to show how to make a todo list with ReasonML
 
 ## Run Project
 
